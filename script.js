@@ -3,7 +3,7 @@
 // SUPABASE CONFIG
 // ==========================
 const supabaseUrl = 'https://aijzcgphzwcbctizseww.supabase.co';
-const supabaseKey = 'TU_KEY_AQUI';
+const supabaseKey = 'sb_publishable_izy35C2L_ACSo_w-L6lWaA_dXC0Z6OP';
 const supabaseClient = window.supabase.createClient(supabaseUrl, supabaseKey);
 
 
